@@ -32,4 +32,5 @@ Remove-Item -Path $currentPath\src, $currentPath\public -Recurse -Force
 Copy-Item -Path $templateFiles\* -Destination $currentPath -Recurse -Force
 
 # Mensaje de ejecución completada
-Write-Host "Instalación finalizada correctamente!"
+$message = "Instalaci" + [char]0x00F3 + "n finalizada correctamente!"
+Write-Host $message
