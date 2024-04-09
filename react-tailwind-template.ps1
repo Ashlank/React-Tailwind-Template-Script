@@ -1,7 +1,8 @@
 # SCRIPT PARA INICIAR UN PROYECTO REACT CON TAILWIND Y ELIMINAR ARCHIVOS INNECESARIOS
 
 if (-not $args.Count -gt 0) {
-  Write-Host "Debe añadir el nombre del proyecto"
+  $mensaje = "Debe a" + [char]0x00F1 + "adir el nombre del proyecto"
+  Write-Host $mensaje
   Exit
 }
 
