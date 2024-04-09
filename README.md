@@ -19,6 +19,11 @@ Script para iniciar un proyecto de React y Tailwind, con la configuración inici
 * Recomiendo añadirle un alias para facilitar su ejecución
 
 ### Demostración
-![Ejecutando el script con el alias "rt"](https://github.com/Ashlank/React-Tailwind-Template-Script/assets/88116420/e6c4b137-e539-423e-8fae-b342d6dbb895)
 
-![Finalización del script](https://github.com/Ashlank/React-Tailwind-Template-Script/assets/88116420/c4ad916e-b1c0-408f-b7f8-fd3ace1f541d)
+Ejecutando el script con el alias "rt"
+
+![Powershell Script Screenshot](https://github.com/Ashlank/React-Tailwind-Template-Script/assets/88116420/e6c4b137-e539-423e-8fae-b342d6dbb895)
+
+Finalización del script
+
+![Powershell Script Screenshot](https://github.com/Ashlank/React-Tailwind-Template-Script/assets/88116420/c4ad916e-b1c0-408f-b7f8-fd3ace1f541d)
